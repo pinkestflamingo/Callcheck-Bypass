@@ -54,7 +54,7 @@ int ConvertClosure(uintptr_t cclosure = 0)
 
 int main()
 {
-    ConsoleBypass("Hooking Test");
+    ConsoleBypass("Prechas Callcheck");
     printf("Beginning..\n");
     MAP_INT3();
 
