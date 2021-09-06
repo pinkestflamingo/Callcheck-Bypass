@@ -57,7 +57,7 @@ int main()
     ConsoleBypass("Prechas Callcheck");
     printf("Beginning..\n");
     MAP_INT3();
-
+    AddVectoredExceptionHandler(1, VEH);
     /* 
     Gets the Int3 assigned for 'custom_getobjects' and pushes it as a cclosure. 
     This raises an exception '0x80000003L' and we can check which Int3 exception was used.
