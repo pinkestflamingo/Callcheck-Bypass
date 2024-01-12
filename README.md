@@ -1,7 +1,2 @@
 # Prechas
-I wrote this project since I didn't want to do English homework about authors.
-I wrote everything except for the opcodes since Axon already had the working ones.
-
-# Notice
-The code hasn't been tested. The assign C closure works though, didn't have time to test the actual bypass though.
-It should work, you can modify it.
+This is probably outdated, but has been proven to work about 2 years ago (when I published it). Since the new release of Roblox's anti-tamper (Hyperion) I'm not sure if this is still useful or if they even still have what we call "callcheck".
