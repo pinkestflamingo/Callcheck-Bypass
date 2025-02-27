@@ -1,2 +1,2 @@
-# Prechas
-This is probably outdated, but has been proven to work about 2 years ago (when I published it). Since the new release of Roblox's anti-tamper (Hyperion) I'm not sure if this is still useful or if they even still have what we call "callcheck".
+> [!CAUTION]
+> This repository is very outdated and will not work on the latest version of Roblox. I believe that callcheck was completely removed from Roblox with the new launch of Hyperion, their brand new anti-cheat.
